@@ -7,7 +7,7 @@
 | **Official Link:** | https://aws.amazon.com/jp/certification/certified-cloud-practitioner/ | 
 | **Length:** | 90 minutes | 
 | **Registration fee:** |  | 
-| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
+| **Exam format:** |  | 
 | **Recommended experience:** |  | 
 | **Official Practice Exam:** |  | 
 
