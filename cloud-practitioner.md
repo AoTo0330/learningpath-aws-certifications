@@ -3,7 +3,7 @@
 ### About the exam
 
 | | | |
-| :---:         |     :---      |          :--- |
+| :---:         |     :---      | 
 | **Official Link:** | https://aws.amazon.com/jp/certification/certified-cloud-practitioner/ | 
 | **Length:** | 90 minutes | 
 | **Registration fee:** |  | 
